@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Menbere:wght@100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Special+Gothic+Expanded+One&display=swap');
 
 * {
     margin: 0;
@@ -45,6 +46,13 @@ body {
 
 textarea {
     resize: none;
+    border: 5px solid #A7C1A8;
+    padding: 5em;
+    border-radius: 5px;
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+    background-color: #D1D8BE;
 
 }
 
@@ -64,11 +72,11 @@ span {
 }
 
 h1 {
-    font-family: "Modak", cursive;
+    font-family: "Special Gothic Expanded One", sans-serif;
     font-weight: 400;
     font-size: 6em;
     font-style: normal;
     text-align: center;
-    color: #AEC8A4;
-    text-shadow: 4px 4px #8A784E;
+    color: #FDF5AA;
+    text-shadow: 4px 4px #58A0C8;
 }
