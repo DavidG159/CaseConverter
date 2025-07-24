@@ -59,4 +59,16 @@ textarea {
     background-color: #D1D8BE;
 }
 
-span {}
+span {
+    font-family: "Menbere", sans-serif;
+}
+
+h1 {
+    font-family: "Modak", cursive;
+    font-weight: 400;
+    font-size: 6em;
+    font-style: normal;
+    text-align: center;
+    color: #AEC8A4;
+    text-shadow: 4px 4px #8A784E;
+}
