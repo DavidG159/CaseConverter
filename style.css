@@ -47,3 +47,16 @@ textarea {
     resize: none;
 
 }
+
+.box {
+
+    border: 5px solid #A7C1A8;
+    padding: 5em;
+    border-radius: 5px;
+    display: block;
+    width: fit-content;
+    margin: 20px auto;
+    background-color: #D1D8BE;
+}
+
+span {}
