@@ -31,6 +31,8 @@ body {
     color: #36395a;
     transition: box-shadow 0.15s ease, transform 0.15s ease;
     text-align: center;
+    margin-left: 10px;
+    margin-top: 10px;
 
 }
 
@@ -56,6 +58,10 @@ textarea {
 
 }
 
+button {
+    margin-left: 50px;
+}
+
 .box {
 
     border: 5px solid #A7C1A8;
@@ -69,6 +75,8 @@ textarea {
 
 span {
     font-family: "Menbere", sans-serif;
+    text-align: center;
+    padding-left: 20em;
 }
 
 h1 {
