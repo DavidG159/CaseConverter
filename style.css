@@ -28,7 +28,7 @@ body {
     padding: 0 32px;
     font-size: 18px;
     border-radius: 6px;
-    color: #36395a;
+    color: black;
     transition: box-shadow 0.15s ease, transform 0.15s ease;
     text-align: center;
     margin-left: 10px;
@@ -63,6 +63,14 @@ button {
     margin-left: 50px;
 }
 
+.btnplacement {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5em;
+    padding-top: 2em;
+}
+
 .box {
 
     border: 5px solid #A7C1A8;
@@ -78,6 +86,7 @@ span {
     font-family: "Menbere", sans-serif;
     text-align: center;
     padding-left: 20em;
+    color: whitesmoke;
 }
 
 h1 {
