@@ -48,13 +48,14 @@ body {
 
 textarea {
     resize: none;
-    border: 5px solid #A7C1A8;
-    padding: 5em;
+    border: 5px solid #58A0C8;
+    padding: 2em;
     border-radius: 5px;
     display: block;
     width: fit-content;
-    margin: 20px auto;
-    background-color: #D1D8BE;
+    margin: 10px auto;
+    font-size: 25px;
+    background-color: #FDF5AA;
 
 }
 
