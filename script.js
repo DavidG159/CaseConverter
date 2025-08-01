@@ -10,5 +10,22 @@ const textarea = document.querySelector('textcontent');
 
 //function
 
+function lowCase(text) {
+
+}
+
+function upCase(text) {
+
+}
+
+function mixedCase(text) {
+
+}
+
+function copyPasta(text) {
+
+}
+
+
 //EventListeners
 
