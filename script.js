@@ -12,13 +12,19 @@ const textarea = document.querySelector('textcontent');
 
 function lowCase(text) {
 
+    return text.toLowerCase();
+
 }
 
 function upCase(text) {
 
+    return text.toUpperCase();
+
 }
 
 function mixedCase(text) {
+
+
 
 }
 
@@ -26,6 +32,9 @@ function copyPasta(text) {
 
 }
 
+function convertText(str, fn) {
+
+}
 
 //EventListeners
 
